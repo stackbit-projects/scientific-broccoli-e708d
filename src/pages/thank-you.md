@@ -10,4 +10,4 @@ template: page
 ---
 # ✉️  Thank you for contacting me.
 
-##### **Gangyeon** will get back in touch with you soon! Have a great day!
+##### **Gangyeon **will get back in touch with you soon! Have a great day!
