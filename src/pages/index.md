@@ -117,7 +117,7 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_02_webNovelWeb_2.png
-      - title: lorem-ipsum
+      - title: HEIDI MANUFACTURING SOLUTION SYSTEM INTRODUCING SITE
         content: >-
           ## Lorem ipsum
 
