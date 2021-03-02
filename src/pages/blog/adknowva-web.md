@@ -144,7 +144,7 @@ Huvle's concept is to provide a vast search portal like the expanding universe. 
 
 ![](/images/final_03.gif)
 
-![](/images/empty_100.png)
+![](/images/empty_100_gray.png)
 
 ###### Mobile Web Application
 
