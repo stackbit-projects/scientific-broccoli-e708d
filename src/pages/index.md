@@ -136,7 +136,7 @@ sections:
       - title: HEIDI MANUFACTURING SOLUTION SYSTEM APP
         content: |
           App
-        image_alt: lorem-ipsum
+        image_alt: heidi app
         actions: []
         type: feature_item
         image: /images/thumbnail_10_HeidiApp.gif
