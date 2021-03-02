@@ -40,10 +40,8 @@ sections:
       - type: feature_item
         template: feature_item
         title: adKnowva OFFICAIL WEBSITE
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |
+          Web Application
         image: /images/thumbnail_04_adKnovaWeb.png
         image_alt: App users welcoming a new member
         actions:
