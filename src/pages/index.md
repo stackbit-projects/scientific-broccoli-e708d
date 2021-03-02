@@ -37,15 +37,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
       - type: feature_item
         template: feature_item
         title: Awesome Feature of Your Services
