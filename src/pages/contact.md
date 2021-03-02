@@ -6,7 +6,7 @@ sections:
     section_id: contact
     title: 'I hope we can keep in touch :)'
     content: "I'm looking for new opportunities! If you are interested in my works or blog posts, please contact me at\_[kangyeon.lee.alicia@gmail.com](mailto:example@example.com)\n"
-    background: gray
+    background: white
     form_id: contactForm
     form_fields:
       - type: form_field
