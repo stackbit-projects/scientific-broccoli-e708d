@@ -155,7 +155,7 @@
                 "label": "Instagram",
                 "style": "link",
                 "has_icon": true,
-                "icon": "arrow-left",
+                "icon": "instagram",
                 "icon_position": "left",
                 "new_window": false,
                 "no_follow": false,
