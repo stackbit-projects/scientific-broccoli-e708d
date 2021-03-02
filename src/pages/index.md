@@ -167,7 +167,7 @@ sections:
         image: /images/thumbnail_12_HeidiDashboard.png
       - title: DEA-GU GYEONGBUK ENGLISH VILLAGE
         content: |
-          Web/Mobile Web Application
+          Web / Mobile Web Application
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
