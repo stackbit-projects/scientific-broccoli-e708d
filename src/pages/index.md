@@ -84,6 +84,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: /images/thumbnail_09_huvleBrowser.png
   - type: section_reviews
     template: section_reviews
     section_id: reviews
