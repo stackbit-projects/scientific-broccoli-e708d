@@ -139,6 +139,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: /images/thumbnail_10_HeidiApp.gif
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
