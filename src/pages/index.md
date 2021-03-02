@@ -19,7 +19,7 @@ sections:
   - type: section_features
     template: section_features
     section_id: Works
-    background: gray
+    background: white
     features:
       - type: feature_item
         template: feature_item
