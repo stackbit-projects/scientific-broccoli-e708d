@@ -146,7 +146,8 @@
                 "label": "Github",
                 "url": "https://github.com/KangyeonLee",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "github"
             }
         ],
         "content": "© GANGYEON LEE. ALL RIGHTS RESERVED."
