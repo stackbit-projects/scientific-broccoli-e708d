@@ -136,7 +136,7 @@
                 "template": "action",
                 "label": "Terms of Service",
                 "url": "/terms-of-service",
-                "style": "secondary",
+                "style": "link",
                 "has_icon": true
             },
             {
