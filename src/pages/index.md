@@ -13,7 +13,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Learn More
+        label: SAY HELLO
         url: /features
         style: primary
   - type: section_features
