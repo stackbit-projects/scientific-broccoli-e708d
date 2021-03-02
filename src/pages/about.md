@@ -1,7 +1,7 @@
 ---
-title: 'This is Gangyeon :)'
+title: This is Gangyeon :)
 subtitle: "I love design and programming \U0001F4BB"
-image: /images/0114.png
+image: "/images/0114.png"
 image_alt: gangyeon
 seo:
   type: stackbit_page_meta
@@ -9,42 +9,43 @@ seo:
   title: About Us
   description: This is the about page
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-      relativeUrl: false
-    - name: 'og:title'
-      value: About Us
-      keyName: property
-      relativeUrl: false
-    - name: 'og:description'
-      value: This is the about page
-      keyName: property
-      relativeUrl: false
-    - name: 'og:image'
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:title'
-      value: About Us
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:description'
-      value: This is the about page
-      keyName: ''
-      relativeUrl: false
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
-      keyName: ''
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: About Us
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: This is the about page
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: images/about.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: About Us
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: This is the about page
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: images/about.jpg
+    relativeUrl: true
+    keyName: ''
   robots: []
 template: page
+
 ---
-![](/images/empty_100.png)
+![](/images/empty_100_gray.png)
 
 ##### TYPE
 
@@ -65,7 +66,7 @@ template: page
 </tfoot>  
 </table>
 
-![](/images/empty_100.png)
+![](/images/empty_100_gray.png)
 
 ##### **MY BACKGROUND**
 
@@ -82,7 +83,7 @@ template: page
 </tbody>  
 </table>
 
-![](/images/empty_100.png)
+![](/images/empty_100_gray.png)
 
 ##### **DESIGN EXPERIENCE**
 
@@ -119,6 +120,6 @@ template: page
 </tfoot>  
 </table>
 
-![](/images/empty_100.png)
+![](/images/empty_100_gray.png)
 
 I am a UI designer from South Korea. After graduating from The University with a Bachelor degree in Visual Design in Korea. I began my web/App/UI design career for five years in the web design industry, and I designed web or apps in detail pages, contents, and landing pages. With every working opportunity, I have been striven to enhance and accept new knowledge to fully experience design's culture. As a designer, I aspire more figuring out the design area and more adopt related working area knowledge, so I went to Canada, and I graduated from The College of Seneca with a diploma in Computer Programming.
