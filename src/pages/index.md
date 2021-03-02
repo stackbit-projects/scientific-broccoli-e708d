@@ -19,7 +19,6 @@ sections:
   - type: section_features
     template: section_features
     section_id: Works
-    subtitle: ng elit. Nullam a metus quis lorem malesuada luctus.
     background: gray
     features:
       - type: feature_item
