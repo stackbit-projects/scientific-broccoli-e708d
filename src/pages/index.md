@@ -168,7 +168,7 @@ sections:
       - title: DEA-GU GYEONGBUK ENGLISH VILLAGE
         content: |
           Web / Mobile Web Application
-        image_alt: dgev web
+        image_alt: dgev site
         actions: []
         type: feature_item
         image: /images/thumbnail_03_dgev_web.png
