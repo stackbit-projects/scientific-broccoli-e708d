@@ -18,7 +18,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Style Guide",
+                "label": "ABOUT",
                 "url": "/style-guide",
                 "style": "link"
             },
