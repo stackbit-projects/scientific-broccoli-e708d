@@ -104,7 +104,7 @@ sections:
       - title: WEB NOVLE VIEWER WEBSITE
         content: |
           Web Application
-        image_alt: lorem-ipsum
+        image_alt: kyobo web
         actions:
           - label: MORE
             url: '#'
