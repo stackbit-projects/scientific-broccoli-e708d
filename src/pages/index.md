@@ -122,7 +122,7 @@ sections:
           Web Application
         image_alt: heidi web
         actions:
-          - label: lorem-ipsum
+          - label: MORE
             url: '#'
             style: link
             has_icon: false
