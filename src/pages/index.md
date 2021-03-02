@@ -72,7 +72,7 @@ sections:
       - title: HUVLE WEB BROWSER
         content: |
           Mobile Web Application
-        image_alt: lorem-ipsum
+        image_alt: huvle browser
         actions:
           - label: MORE
             url: '#'
