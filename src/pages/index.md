@@ -102,17 +102,8 @@ sections:
         type: feature_item
         image: /images/thumbnail_01_webNovelApp.png
       - title: WEB NOVLE VIEWER WEBSITE
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Web Application
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
