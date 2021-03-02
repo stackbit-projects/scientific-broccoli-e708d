@@ -43,7 +43,7 @@ sections:
         content: |
           Web Application
         image: /images/thumbnail_04_adKnovaWeb.png
-        image_alt: App users welcoming a new member
+        image_alt: adknowva web
         actions:
           - type: action
             template: action
