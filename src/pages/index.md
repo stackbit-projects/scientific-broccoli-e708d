@@ -170,7 +170,7 @@ sections:
           Web / Mobile Web Application
         image_alt: dgev site
         actions:
-          - label: lorem-ipsum
+          - label: MORE
             url: '#'
             style: link
             has_icon: false
