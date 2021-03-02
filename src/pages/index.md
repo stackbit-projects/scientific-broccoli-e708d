@@ -88,7 +88,7 @@ sections:
       - title: WEB NOVEL VIEWER APP
         content: |
           APP
-        image_alt: lorem-ipsum
+        image_alt: kyobo app
         actions:
           - label: MORE
             url: '#'
