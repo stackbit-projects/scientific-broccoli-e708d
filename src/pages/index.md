@@ -59,7 +59,7 @@ sections:
         content: |
           Web Application
         image: /images/thumbnail_04_adKnovaDashboard.png
-        image_alt: App user profile preview
+        image_alt: adknowva dashboard
         actions:
           - type: action
             template: action
