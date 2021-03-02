@@ -69,7 +69,7 @@ sections:
             has_icon: false
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
+      - title: HUVLE WEB BROWSER
         content: >-
           ## Lorem ipsum
 
