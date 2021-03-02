@@ -42,14 +42,6 @@ sections:
         name: message
         label: MESSAGE
         default_value: Your message
-      - type: form_field
-        template: form_field
-        input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-        is_required: true
     submit_label: Send Message
 seo:
   type: stackbit_page_meta
