@@ -129,7 +129,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image_alt: lorem-ipsum
+        image_alt: heidi web
         actions: []
         type: feature_item
         image: /images/thumbnail_11_HeidiWeb.gif
