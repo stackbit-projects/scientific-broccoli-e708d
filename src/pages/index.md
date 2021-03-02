@@ -165,7 +165,7 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_12_HeidiDashboard.png
-      - title: lorem-ipsum
+      - title: DEA-GU GYEONGBUK ENGLISH VILLAGE
         content: >-
           ## Lorem ipsum
 
