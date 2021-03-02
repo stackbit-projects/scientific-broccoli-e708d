@@ -31,7 +31,7 @@ sections:
         input_type: text
         name: subject
         label: SUBJECT
-        default_value: Please select
+        default_value: Your subject
         options:
           - Error on the site
           - Sponsorship
