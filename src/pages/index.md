@@ -14,7 +14,7 @@ sections:
       - type: action
         template: action
         label: SAY HELLO
-        url: /features
+        url: /contact
         style: primary
   - type: section_features
     template: section_features
