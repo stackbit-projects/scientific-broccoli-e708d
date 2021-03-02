@@ -31,7 +31,7 @@ sections:
         actions:
           - type: action
             template: action
-            url: /blog/
+            url: /blog/adknowva-web
             style: secondary
             has_icon: false
             icon: arrow-right
