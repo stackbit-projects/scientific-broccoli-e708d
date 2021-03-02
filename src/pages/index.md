@@ -197,7 +197,7 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_09_marco_church.png
-      - title: lorem-ipsum
+      - title: 'HAN SAM '
         content: >-
           ## Lorem ipsum
 
