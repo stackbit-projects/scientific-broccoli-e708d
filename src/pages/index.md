@@ -70,17 +70,8 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: HUVLE WEB BROWSER
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Mobile Web Application
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
