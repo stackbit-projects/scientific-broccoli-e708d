@@ -10,9 +10,8 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+**Thank you!**
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#### ✉️  Thank you for contacting me.
 
-- Lorem ipsum
-- dolor sit amet
+**Kangyeon** will get back in touch with you soon! Have a great day!
