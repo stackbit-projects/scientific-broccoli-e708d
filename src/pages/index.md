@@ -154,7 +154,7 @@ sections:
           Web Application
         image_alt: heidi dashboard
         actions:
-          - label: lorem-ipsum
+          - label: MORE
             url: '#'
             style: link
             has_icon: false
