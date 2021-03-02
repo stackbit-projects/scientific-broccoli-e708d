@@ -28,7 +28,7 @@ sections:
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
-        image: images/feature1.png
+        image: /images/sample.png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
