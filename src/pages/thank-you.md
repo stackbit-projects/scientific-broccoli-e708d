@@ -1,6 +1,5 @@
 ---
 title: 'Thank you :)'
-subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: ''
