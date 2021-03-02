@@ -138,7 +138,7 @@ sections:
           App
         image_alt: heidi app
         actions:
-          - label: lorem-ipsum
+          - label: MORE
             url: '#'
             style: link
             has_icon: false
