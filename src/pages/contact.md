@@ -40,7 +40,7 @@ sections:
         template: form_field
         input_type: textarea
         name: message
-        label: Message
+        label: MESSAGE
       - type: form_field
         template: form_field
         input_type: checkbox
