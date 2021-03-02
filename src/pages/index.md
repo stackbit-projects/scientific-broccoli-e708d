@@ -23,7 +23,7 @@ sections:
     features:
       - type: feature_item
         template: feature_item
-        title: The Best Feature of Your Services
+        title: HUVLE OFFICIAL WEBSITE
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
