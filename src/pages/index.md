@@ -36,6 +36,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            label: l
       - type: feature_item
         template: feature_item
         title: Awesome Feature of Your Services
