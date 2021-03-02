@@ -89,7 +89,7 @@ template: page
 
 5 years
 
-![](/images/empty_100.png)
+![](/images/empty_100_gray.png)
 
 ##### **SKILLS**
 
