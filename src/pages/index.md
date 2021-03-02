@@ -85,7 +85,7 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_09_huvleBrowser.png
-      - title: lorem-ipsum
+      - title: WEB NOVEL VIEWER APP
         content: >-
           ## Lorem ipsum
 
