@@ -181,7 +181,7 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_03_dgev_web.png
-      - title: lorem-ipsum
+      - title: SAINT MARK CHURCH
         content: >-
           ## Lorem ipsum
 
