@@ -32,7 +32,7 @@ sections:
           - type: action
             template: action
             url: /features
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
