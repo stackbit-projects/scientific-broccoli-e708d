@@ -27,7 +27,7 @@ sections:
         content: |
           Web / Mobile Web Application
         image: /images/thumbnail_02_huvleWeb.gif
-        image_alt: App preview on a phone and tablet
+        image_alt: huvle web
         actions:
           - type: action
             template: action
