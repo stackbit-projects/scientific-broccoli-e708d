@@ -19,7 +19,6 @@ sections:
   - type: section_features
     template: section_features
     section_id: Works
-    title: Features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
