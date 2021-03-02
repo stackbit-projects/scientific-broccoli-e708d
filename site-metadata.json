@@ -11,7 +11,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Home",
+                "label": "PASSIONS",
                 "url": "/",
                 "style": "link"
             },
