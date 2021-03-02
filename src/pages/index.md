@@ -152,7 +152,7 @@ sections:
       - title: HEIDI MANUFACTURING SOLUTION SYSTEM DASHBOARD
         content: |
           Web Application
-        image_alt: lorem-ipsum
+        image_alt: heidi dashboard
         actions: []
         type: feature_item
         image: /images/thumbnail_12_HeidiDashboard.png
