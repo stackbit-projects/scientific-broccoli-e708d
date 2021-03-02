@@ -33,7 +33,7 @@ sections:
             template: action
             url: /features
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             label: MORE
