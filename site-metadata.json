@@ -144,7 +144,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Github",
-                "url": "/privacy-policy",
+                "url": "https://github.com/KangyeonLee",
                 "style": "link"
             }
         ],
