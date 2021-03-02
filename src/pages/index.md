@@ -69,6 +69,21 @@ sections:
             has_icon: false
             icon: arrow-right
             icon_position: right
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
   - type: section_reviews
     template: section_reviews
     section_id: reviews
