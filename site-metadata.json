@@ -18,13 +18,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
