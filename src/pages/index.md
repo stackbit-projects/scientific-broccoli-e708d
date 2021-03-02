@@ -39,7 +39,7 @@ sections:
             label: MORE
       - type: feature_item
         template: feature_item
-        title: Awesome Feature of Your Services
+        title: adKnowva OFFICAIL WEBSITE
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
