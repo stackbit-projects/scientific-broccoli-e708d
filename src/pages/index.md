@@ -149,7 +149,7 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_10_HeidiApp.gif
-      - title: lorem-ipsum
+      - title: HEIDI MANUFACTURING SOLUTION SYSTEM DASHBOARD
         content: >-
           ## Lorem ipsum
 
