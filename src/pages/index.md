@@ -202,7 +202,7 @@ sections:
           Web Application
         image_alt: hansam
         actions:
-          - label: lorem-ipsum
+          - label: MORE
             url: '#'
             style: link
             has_icon: false
