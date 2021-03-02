@@ -74,7 +74,7 @@ sections:
           Mobile Web Application
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: MORE
             url: '#'
             style: link
             has_icon: false
