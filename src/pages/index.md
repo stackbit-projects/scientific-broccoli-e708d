@@ -31,7 +31,7 @@ sections:
         actions:
           - type: action
             template: action
-            url: /features
+            url: /blog/
             style: secondary
             has_icon: false
             icon: arrow-right
