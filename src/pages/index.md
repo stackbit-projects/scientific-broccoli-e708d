@@ -134,17 +134,8 @@ sections:
         type: feature_item
         image: /images/thumbnail_11_HeidiWeb.gif
       - title: HEIDI MANUFACTURING SOLUTION SYSTEM APP
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          App
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
