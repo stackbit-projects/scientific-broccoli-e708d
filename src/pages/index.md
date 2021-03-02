@@ -24,10 +24,8 @@ sections:
       - type: feature_item
         template: feature_item
         title: HUVLE OFFICIAL WEBSITE
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          Web / Mobile Web Application
         image: /images/thumbnail_02_huvleWeb.gif
         image_alt: App preview on a phone and tablet
         actions:
