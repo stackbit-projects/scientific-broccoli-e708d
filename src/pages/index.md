@@ -171,6 +171,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: /images/thumbnail_03_dgev_web.png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
