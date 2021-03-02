@@ -200,7 +200,7 @@ sections:
       - title: HAN SAM CRAM SCHOOL
         content: |
           Web Application
-        image_alt: lorem-ipsum
+        image_alt: hansam
         actions: []
         type: feature_item
         image: /images/thumbnail_14_HansamWeb.png
