@@ -187,6 +187,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: /images/thumbnail_09_marco_church.png
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
