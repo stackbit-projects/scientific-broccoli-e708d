@@ -21,13 +21,6 @@
                 "label": "ABOUT",
                 "url": "/style-guide",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
             }
         ]
     },
