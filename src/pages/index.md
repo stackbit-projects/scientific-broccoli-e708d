@@ -34,7 +34,7 @@ sections:
             url: /features
             style: secondary
             has_icon: true
-            icon: envelope
+            icon: arrow-left
             icon_position: right
       - type: feature_item
         template: feature_item
