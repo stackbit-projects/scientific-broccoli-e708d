@@ -143,7 +143,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Privacy Policy",
+                "label": "Github",
                 "url": "/privacy-policy",
                 "style": "link"
             }
