@@ -155,6 +155,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: /images/thumbnail_12_HeidiDashboard.png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
