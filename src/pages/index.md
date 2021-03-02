@@ -85,17 +85,6 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_09_huvleBrowser.png
-  - type: section_cta
-    template: section_cta
-    section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: /signup
-        style: primary
   - type: section_posts
     template: section_posts
     section_id: recent-posts
