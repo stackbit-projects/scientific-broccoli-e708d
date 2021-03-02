@@ -186,7 +186,7 @@ sections:
           Web Application
         image_alt: st mark
         actions:
-          - label: lorem-ipsum
+          - label: MORE
             url: '#'
             style: link
             has_icon: false
