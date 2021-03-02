@@ -135,7 +135,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "LinkedIn",
-                "url": "/terms-of-service",
+                "url": "https://www.linkedin.com/in/kangyeon-lee-90/",
                 "style": "link",
                 "has_icon": true,
                 "icon": "linkedin"
