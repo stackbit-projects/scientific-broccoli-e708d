@@ -101,7 +101,7 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_01_webNovelApp.png
-      - title: lorem-ipsum
+      - title: WEB NOVLE
         content: >-
           ## Lorem ipsum
 
