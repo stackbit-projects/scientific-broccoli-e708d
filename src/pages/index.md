@@ -85,11 +85,6 @@ sections:
             type: action
         type: feature_item
         image: /images/thumbnail_09_huvleBrowser.png
-  - type: section_posts
-    template: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    background: gray
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
