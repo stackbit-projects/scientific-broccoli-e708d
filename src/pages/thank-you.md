@@ -1,5 +1,5 @@
 ---
-title: thank you
+title: " "
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
@@ -11,7 +11,7 @@ seo:
 template: page
 sections:
 - template: section_content
-  background: gray
+  background: white
   type: section_content
   content: |-
     # **Thank you!**
