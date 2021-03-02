@@ -56,10 +56,8 @@ sections:
       - type: feature_item
         template: feature_item
         title: adKnowva DASHBOARD
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: |
+          Web Application
         image: /images/thumbnail_04_adKnovaDashboard.png
         image_alt: App user profile preview
         actions:
