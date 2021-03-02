@@ -42,7 +42,7 @@ sections:
         name: message
         label: MESSAGE
         default_value: Your message
-    submit_label: Send Message
+    submit_label: Send Message to Gangyeon!
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
