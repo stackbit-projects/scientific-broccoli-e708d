@@ -169,7 +169,16 @@ sections:
         content: |
           Web / Mobile Web Application
         image_alt: dgev site
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: /images/thumbnail_03_dgev_web.png
       - title: lorem-ipsum
