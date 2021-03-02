@@ -184,7 +184,7 @@ sections:
       - title: SAINT MARK CHURCH
         content: |
           Web Application
-        image_alt: lorem-ipsum
+        image_alt: st mark
         actions: []
         type: feature_item
         image: /images/thumbnail_09_marco_church.png
